@@ -1,0 +1,214 @@
+[
+    {
+        "titulo": "Titanic",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Tango y Cash",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Gladiador",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Harry potter",
+        "estado": "en progreso",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Judge Dredd",
+        "estado": "pendiente",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Batman",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "GhostBusters",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "The wolf of wall street",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "8 mile",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "It's okay to not be okay",
+        "estado": "en progreso",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Coco",
+        "estado": "pendiente",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "El demoledor",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Halcon",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Marley y yo",
+        "estado": "terminada",
+        "duracion": 105,
+        "genero": "comica",
+        "puntuacion": 10,
+        "nuevoEstreno": false
+    },
+    {
+        "titulo": "Mama",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "One Piece",
+        "estado": "en progreso",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Monsters",
+        "estado": "pendiente",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Evangelion",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Esperando a la carroza I",
+        "estado": "en progreso",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Brigada z",
+        "estado": "pendiente",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Un pequeño favor",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Resident evil",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Brooklyn 99",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "Pequeños Guerreros",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "The Boys",
+        "estado": "en progreso",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "los locos adamns",
+        "estado": "terminada",
+        "duracion": 305,
+        "genero": "terror",
+        "puntuacion": 9,
+        "nuevoEstreno": true
+    },
+    {
+        "titulo": "volver al futuro",
+        "estado": "pendiente"
+    }
+]
